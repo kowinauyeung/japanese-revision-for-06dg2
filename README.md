@@ -89,9 +89,14 @@
 | を | 離開(場所) | 学校 **を** 卒業します。 | 從學校畢業 |
 
 ### は
+`は`喺日本語入邊，能夠將助詞嘅前者提升為句字嘅重點，當`は`要為`が`同`を`嘅前者提升為重點時，會直接將`が`同`を`換成`は`，而當`は`要為`に`同`で`嘅前者提升為重點時，會變成`には`同`では`。
+```
+原句：私がラストランでご飯を食べます。
 
-
-### は
+が => は：私はラストランでご飯を食べます。
+を => は：飯は私がラストランでご食べます。
+で => は：ラストランでは私がご飯を食べます。
+```
 
 ### が 和 を
 
@@ -108,3 +113,5 @@
 
 ## 參考
 [https://smallcollation.blogspot.com/2013/07/usage-of-particles-in-japanese.html?m=1#gsc.tab=0](https://smallcollation.blogspot.com/2013/07/usage-of-particles-in-japanese.html?m=1#gsc.tab=0)
+[https://jp.sonic-learning.com/2011/06/25/extra03/](https://jp.sonic-learning.com/2011/06/25/extra03/)
+[https://www.youtube.com/watch?v=yKBo4Y58eDU](https://www.youtube.com/watch?v=yKBo4Y58eDU)
